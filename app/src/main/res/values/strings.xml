@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InterviewTest</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="sort_by_sellin">Sort by Sell In</string>
+    <string name="sort_by_odds">Sort by Odds</string>
+
+    <string name="upload_odds">Upload odds</string>
+
+    <string name="odds_format">Odds: %d</string>
+    <string name="sell_in_format">Sell in: %d</string>
+</resources>
